@@ -1,4 +1,4 @@
-# ✈️ CineSync
+# ✈️ QuickShow
 
 An intelligent, AI-powered movie ticket booking platform that creates a seamless and enjoyable experience. Stop waiting, start watching!
 
