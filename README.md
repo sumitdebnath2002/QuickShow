@@ -4,7 +4,7 @@ An intelligent, AI-powered movie ticket booking platform that creates a seamless
 
 ## 📖 About The Project
 
-CineSync is a full-stack web application designed to modernize the movie ticket booking experience. This project provides a user-friendly interface for browsing movies, viewing showtimes, and booking seats effortlessly.
+QuickShow is a full-stack web application designed to modernize the movie ticket booking experience. This project provides a user-friendly interface for browsing movies, viewing showtimes, and booking seats effortlessly.
 
 The project is architected with a separation of frontend client and backend server, ensuring better scalability and maintainability.
 
@@ -124,4 +124,4 @@ If you have suggestions, please fork the repo and create a pull request, or open
 ## 📧 Contact
 
 Sumit Debnath - [sumitdebnath2002](https://github.com/sumitdebnath2002)  
-Project Link: [https://github.com/sumitdebnath2002/CineSync](https://github.com/sumitdebnath2002/CineSync)
+Project Link: [https://github.com/sumitdebnath2002/QuickShow](https://github.com/sumitdebnath2002/QuickShow)
